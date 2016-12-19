@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tree-view-open-files-plus",
+        "command": "tree-view-open-files-plus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tree-view-open-files-plus",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tree-view-open-files-plus:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

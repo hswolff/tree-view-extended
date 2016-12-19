@@ -1,0 +1,20 @@
+{
+  "name": "tree-view-open-files-plus",
+  "main": "./lib/tree-view-open-files-plus",
+  "version": "0.1.0",
+  "description": "A short description of your package",
+  "keywords": [
+    "tree-view",
+    "open-files"
+  ],
+  "activationCommands": {
+    "atom-workspace": "tree-view-open-files-plus:toggle"
+  },
+  "repository": "https://github.com/hswolff/tree-view-open-files-plus",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
