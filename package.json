@@ -1,5 +1,5 @@
 {
-  "name": "tree-view-open-files-plus",
+  "name": "tree-view-extended",
   "main": "./lib/main",
   "version": "0.1.0",
   "description": "A short description of your package",
@@ -11,9 +11,9 @@
     "open-files"
   ],
   "activationCommands": {
-    "atom-workspace": "tree-view-open-files-plus:toggle"
+    "atom-workspace": "tree-view-extended:toggle"
   },
-  "repository": "https://github.com/hswolff/tree-view-open-files-plus",
+  "repository": "https://github.com/hswolff/tree-view-extended",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

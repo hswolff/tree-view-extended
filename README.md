@@ -1,4 +1,4 @@
-# tree-view-open-files-plus package
+# tree-view-extended package
 
 A short description of your package.
 
