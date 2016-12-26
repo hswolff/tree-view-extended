@@ -2,7 +2,7 @@
   "name": "tree-view-extended",
   "main": "./lib/main",
   "version": "0.1.0",
-  "description": "A short description of your package",
+  "description": "Extend your tree-view. Add a list of open files, and a list of git modified files.",
   "scripts": {
     "lint": "eslint lib"
   },
