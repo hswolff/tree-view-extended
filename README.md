@@ -1,12 +1,24 @@
 # tree-view-extended package
 
-A short description of your package.
+Extend your tree-view. Add a list of open files, and a list of git modified files.
 
-## Thanks
+![Screenshot](https://raw.githubusercontent.com/hswolff/tree-view-extended/master/screenshot.png)
 
-https://github.com/postcasio/tree-view-open-files
+## Features
 
-https://github.com/rjaviervega/tree-view-git-modified
+- Show all your open files in the tree view
+- Show all your git modified files in the tree view
+- Toggle either tree view extension to be sticky. It won't scroll with the rest of the tree view.
+- Close open files from the tree view extension.
+- Toggle the visibility of either extension.
+
+
+## Thank you!
+
+Without these two packages this one would not exist.
+
+- https://github.com/postcasio/tree-view-open-files
+- https://github.com/rjaviervega/tree-view-git-modified
 
 ## Todo
 
