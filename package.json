@@ -8,7 +8,12 @@
   },
   "keywords": [
     "tree-view",
-    "open-files"
+    "open-files",
+    "tree",
+    "view",
+    "extended",
+    "git",
+    "modified"
   ],
   "activationCommands": {
     "atom-workspace": "tree-view-extended:toggle"
