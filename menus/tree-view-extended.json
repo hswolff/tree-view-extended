@@ -1,22 +1,56 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle tree-view-extended",
-        "command": "tree-view-extended:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
         {
-          "label": "tree-view-extended",
+          "label": "Tree View Extended",
           "submenu": [
             {
-              "label": "Toggle",
-              "command": "tree-view-extended:toggle"
+              "label": "Toggle All",
+              "command": "tree-view-extended:toggle-all"
+            },
+            {
+              "label": "Show All",
+              "command": "tree-view-extended:show-all"
+            },
+            {
+              "label": "Hide All",
+              "command": "tree-view-extended:hide-all"
+            },
+
+            {
+              "label": "Toggle Open Files",
+              "command": "tree-view-extended:toggle-open-files"
+            },
+            {
+              "label": "Show Open Files",
+              "command": "tree-view-extended:show-open-files"
+            },
+            {
+              "label": "Hide Open Files",
+              "command": "tree-view-extended:hide-open-files"
+            },
+            {
+              "label": "Toggle Sticky Open Files",
+              "command": "tree-view-extended:toggle-sticky-open-files"
+            },
+
+            {
+              "label": "Toggle Git Modified Files",
+              "command": "tree-view-extended:toggle-git-modified-files"
+            },
+            {
+              "label": "Show Git Modified Files",
+              "command": "tree-view-extended:show-git-modified-files"
+            },
+            {
+              "label": "Hide Git Modified Files",
+              "command": "tree-view-extended:hide-git-modified-files"
+            },
+            {
+              "label": "Toggle Sticky Git Modified Files",
+              "command": "tree-view-extended:toggle-sticky-git-modified-files"
             }
           ]
         }
