@@ -15,9 +15,6 @@
     "git",
     "modified"
   ],
-  "activationCommands": {
-    "atom-workspace": "tree-view-extended:toggle"
-  },
   "repository": "https://github.com/hswolff/tree-view-extended",
   "license": "MIT",
   "engines": {

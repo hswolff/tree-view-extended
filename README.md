@@ -11,3 +11,5 @@ https://github.com/rjaviervega/tree-view-git-modified
 ## Todo
 
 - [ ] Support showing pending tab state
+- [ ] Support drag and drop of tab order
+- [ ] Support showing nested view of files within their folders
