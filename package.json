@@ -1,10 +1,10 @@
 {
   "name": "tree-view-extended",
   "main": "./lib/main",
-  "version": "1.1.0",
+  "version": "2.0.0",
   "description": "Extend your tree-view. Add a list of open files, and a list of git modified files.",
   "engines": {
-    "atom": ">=1.17.0 <2.0.0"
+    "atom": ">=1.0.0 <2.0.0"
   },
   "scripts": {
     "lint": "eslint lib"
@@ -20,9 +20,6 @@
   ],
   "repository": "https://github.com/hswolff/tree-view-extended",
   "license": "MIT",
-  "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
   "dependencies": {
     "atom-utils": "^0.9.2",
     "lodash": "^4.17.2",
