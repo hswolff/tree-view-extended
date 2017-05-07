@@ -3,6 +3,9 @@
   "main": "./lib/main",
   "version": "1.1.0",
   "description": "Extend your tree-view. Add a list of open files, and a list of git modified files.",
+  "engines": {
+    "atom": ">=1.17.0 <2.0.0"
+  },
   "scripts": {
     "lint": "eslint lib"
   },

@@ -19,6 +19,17 @@
     justify-content: flex-start;
     align-items: center;
 
+    &.extended-selected {
+      &::before {
+        height: 2em;
+        background: #2c313a;
+        content: '';
+        position: absolute;
+        left: 0;
+        right: 0;
+        height: 25px;      }
+    }
+
     &.modified {
       .close-open-file {
         transform: scale(1);
